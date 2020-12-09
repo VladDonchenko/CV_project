@@ -1,0 +1,64 @@
+body{
+	background: linear-gradient(45deg, #EECFBA, #C5DDE8)no-repeat;
+    height: 100px;
+    font-family: Times New Roman, serif;
+}
+
+.name{
+	position:relative;
+	text-align: left;
+	line-height: 0.2em;
+	bottom: -20px;
+	font-size: 25px;
+
+
+}
+
+.contact{
+	position: relative;
+	text-align: right;
+	line-height: 0.2em;
+	font-size: 20px;
+	bottom: 30px;
+}
+
+.resume{
+	position: relative;
+	text-align: left;
+	font-size: 30px;
+	bottom: 40px;
+
+}
+
+.cv{
+	position: relative;
+	text-align: left;
+	line-height: 3em;
+	left: 600px;
+	bottom: 370px;
+}
+
+.works{
+	position: relative;
+	text-align: left;
+	bottom: 65px;
+
+}
+
+
+.education{
+	position: relative;
+	text-align: left;
+	line-height: 0.8em;
+	font-size: 30px;
+	bottom: 380px;
+}
+
+.skills{
+	position: relative;
+	text-align: left;
+	line-height: 3em;
+	left: 600px;
+	bottom: 1060px;
+}
+
